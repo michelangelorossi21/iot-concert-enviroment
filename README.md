@@ -15,9 +15,9 @@ An IoT environment simulator with smart lamps and amplifiers that control **brig
    cd IoT-Simulator
 
 2. **Compile and run**
-```sh
-   javac Main.java  
-   java Main
+   ```sh
+      javac Main.java  
+      java Main
 
 ## 🔹 Key Features
 - Simulate smart devices with dynamic states
