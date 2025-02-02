@@ -20,9 +20,10 @@ An IoT environment simulator with smart lamps and amplifiers that control **brig
       java Main
 
 ## 🔹 Key Features
-- Simulate smart devices with dynamic states
+- Simulates smart devices with dynamic states
 - Automated volume and brightness adjustment
 - Anomaly detection in the system
 
-## ✉ Contact
-For questions or suggestions, contact me on LinkedIn
+## ✉ Contact  
+For questions or suggestions, contact me on **[LinkedIn](https://www.linkedin.com/in/michelangelo-rossi-6a2071a6/)**
+
