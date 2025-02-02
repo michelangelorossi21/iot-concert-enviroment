@@ -12,7 +12,7 @@ An IoT environment simulator with smart lamps and amplifiers that control **brig
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/michelagelorossi21/iot-concert-enviroment.git
-   cd IoT-Simulator
+   cd iot-concert-enviroment
 
 2. **Compile and run**
    ```sh
