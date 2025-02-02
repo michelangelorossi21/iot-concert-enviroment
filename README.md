@@ -14,7 +14,7 @@ An IoT environment simulator with smart lamps and amplifiers that control **brig
    git clone https://github.com/michelagelorossi21/iot-concert-enviroment.git
    cd IoT-Simulator
 
-## Compile and run
+2. **Compile and run**
 ```sh
    javac Main.java  
    java Main
